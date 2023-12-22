@@ -1,4 +1,4 @@
-
+# polynomial is given in the format of ax^2 + bx + c
 
 a = 3
 b = 2
