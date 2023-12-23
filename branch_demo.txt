@@ -1,1 +1,9 @@
-"Demonstration of Branches" 
+"""Demonstration of Branches with pythagoras theorem"""
+# hipotenusa = y
+# other sides of the triangles a and b
+import numpy as np
+a = x  #substitute x with the value
+b = z  #substite z with the value 
+y2 = a*a + b*b 
+y = np.sqrt(y2)
+print(y)
